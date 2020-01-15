@@ -16,3 +16,9 @@
 - http://localhost:8080/ : [ application ]
 - http://localhost/phpmyadmin : [ phpmyadmin ]
 ```
+
+### Environment download
+```
+- https://www.apachefriends.org/index.html : [ xampp ]
+- https://code.visualstudio.com/docs/languages/java : [ vs code ]
+```
