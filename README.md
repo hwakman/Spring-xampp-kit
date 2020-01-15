@@ -1,4 +1,4 @@
-## Welcome to Spring with xampp dev kit.
+## Welcome to Spring boot application.
 - See a document [here](https://github.com/hwakman/Spring-xampp-kit/wiki).
 
 ### Environment setup
@@ -9,4 +9,10 @@
 - Import a SQL file inside "database" directory to phpmyadmin.
 - Run this application with your favorite IDE.
 - Have fun !!!
+```
+
+### Environment ports
+```
+- http://localhost:8080/ : [ application ]
+- http://localhost/phpmyadmin : [ phpmyadmin ]
 ```
