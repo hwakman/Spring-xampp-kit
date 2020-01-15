@@ -1,7 +1,7 @@
 ## Welcome to Spring boot application.
 
 ### Example image ( [Document](https://github.com/hwakman/Spring-xampp-kit/wiki) )
-<img src="/src/main/resources/static/image/example.png" width="900">
+<center><img src="/src/main/resources/static/image/example.png" width="750"></center>
 
 ### Environment setup
 ```
